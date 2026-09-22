@@ -4,3 +4,4 @@ checkpoints
 test_checkpoints_resume
 checkpoints_backup
 *.bbl
+ckpt_gap
