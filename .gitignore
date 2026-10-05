@@ -1,7 +1,7 @@
 aienv
-checkpoints
+# checkpoints
 .vscode
-test_checkpoints_resume
-checkpoints_backup
+# test_checkpoints_resume
+# checkpoints_backup
 *.bbl
-ckpt_gap
+# ckpt_gap
